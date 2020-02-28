@@ -39,6 +39,7 @@ export default class MainScene extends Phaser.Scene {
 
     this.background = new Background(this.findAsset("background"), this, this.gameWidth, this.gameHeight);
     this.scoreLabel = this.add.bitmapText(100, 50, "font", "SCORE ", 50);
+    this.score = 0;
     
     this.playerShip = new PlayerShip(this.findAsset("player_ship"), 
                                      this.findAsset("player_projectile"), 
