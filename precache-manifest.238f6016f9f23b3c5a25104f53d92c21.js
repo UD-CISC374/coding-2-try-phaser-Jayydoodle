@@ -604,12 +604,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/font/font.xml"
   },
   {
-    "revision": "d0a857d083c588c893af0cf659fa9fc1",
+    "revision": "fc31c875dcbc9a5697a71d55805f7fa7",
     "url": "index.html"
   },
   {
-    "revision": "836be06ee9c7c3f3651d",
-    "url": "main.bb2d1532136dec5df2e5.bundle.js"
+    "revision": "ce2024b6672a3b3a79b7",
+    "url": "main.d79e61512749ffe58e4a.bundle.js"
   },
   {
     "revision": "b4321e6f6a88a978d4964c0d1b432b03",

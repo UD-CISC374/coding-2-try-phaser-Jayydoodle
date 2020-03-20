@@ -1,4 +1,4 @@
-importScripts("/coding-2-try-phaser-Jayydoodle/devprecache-manifest.3929f441773fcc33aa837c2cd4d731c4.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/coding-2-try-phaser-Jayydoodle/devprecache-manifest.0f718e7fba9387ca8ce19d60ccee966d.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /**
  * You should only modify this, if you know what you are doing.
